@@ -78,7 +78,7 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview  
-*(Add a screenshot of your Excel dashboard here once uploaded)*  
+<img width="957" height="631" alt="Screenshot 2025-09-15 at 7 25 31 PM" src="https://github.com/user-attachments/assets/724141ea-eacd-43aa-a7e7-75975a09f8c7" /> 
 
 ---
 
@@ -91,11 +91,6 @@ The dataset includes:
 
 ---
 
-## 🤝 Contributions  
-Contributions, suggestions, and improvements are welcome!  
 
----
+ 
 
-## 📜 License  
-This project is open-source under the **MIT License**.  
-<img width="957" height="631" alt="Screenshot 2025-09-15 at 7 25 31 PM" src="https://github.com/user-attachments/assets/724141ea-eacd-43aa-a7e7-75975a09f8c7" />
